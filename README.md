@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 📈 I'm analyzing data</br>
 
 
-<br>## Connect with me on Linked in[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sandra-kwiatkowska-89a9001ba/)[<img align="left" alt="medium"
+<Connect with me on Linked in[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sandra-kwiatkowska-89a9001ba/)[<img align="left" alt="medium"]
 
 
