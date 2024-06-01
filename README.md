@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📊 I'm building visuals in Power BI
-👩🏻‍💻 I'm writing SQL queries
-📈 I'm analyzing data
+📊 I'm building visuals in Power BI</br>
+👩🏻‍💻 I'm writing SQL queries</br>
+📈 I'm analyzing data</br>
