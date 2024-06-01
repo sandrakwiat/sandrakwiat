@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-📊 I'm building visuals in Power BI</br>
 👩🏻‍💻 I'm writing SQL queries</br>
+📊 I'm building visuals in Power BI</br>
 📈 I'm analyzing data</br>
